@@ -1,7 +1,7 @@
 {
-  "name": "soccerbot",
+  "name": "translator-bot",
   "version": "1.0.0",
-  "description": "soccer bot",
+  "description": "Bot that uses Google translate API to translate text",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
